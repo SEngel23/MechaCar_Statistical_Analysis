@@ -48,7 +48,7 @@ T.tests were performed on the entirety of the lots which provided a p-value of 0
 
 ![t.test_psi.png](Images/t.test_psi.png)
 
-Then breaking out each lot individually and running the t.test provides a more indepth look at each. Lot1 and Lot2 have p-values above the significant level of 0.05 which rejects our null hypothesis for those two Manufacturer Lots.
+Then breaking out each lot individually and running the t.test provides a more indepth look at each. Lot1 and Lot2 have p-values above the significant level of 0.05 which does not support a rejection of our null hypothesis for those two Manufacturer Lots.
 
 However, Lot3 has a p-value of under 0.05 as expected which is of significance evidence to reject the null hypothesis. This adds further to our previous interpretation of the variance and standard deviation in the statistics exercise.
 
